@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://github.com/user-attachments/assets/b35cf4f6-e30c-4ac1-9771-ba741516520d" />
   
-  # Hi 👋😇, I'm Yasmine
+  # Hi 👋😇, I'm Alexise
   ### Aspiring Web Developer 💪
 </div>
 
